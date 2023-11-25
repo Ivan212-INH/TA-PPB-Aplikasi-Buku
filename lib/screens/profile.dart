@@ -20,7 +20,7 @@ class ProfilePage extends StatelessWidget {
             ),
             Text('Ivan Nabil Haidar', 
             style: Theme.of(context).textTheme.titleMedium),
-            Text('Github Link: https://github.com/Ivan212-INH', 
+            Text('Github Link: https://github.com/Ivan212-INH/TA-PPB-Aplikasi-Buku', 
             style: Theme.of(context).textTheme.labelLarge),
             Padding(padding: EdgeInsets.all(20),
             child: Text('Aplikasi ini adalah aplikasi untuk menampilkan list buku. Aplikasi dapat memfavoritkan buku, atau menampilkan buku berdasarkan kategorinya', 
